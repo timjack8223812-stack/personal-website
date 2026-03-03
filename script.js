@@ -69,7 +69,7 @@ window.addEventListener('scroll', () => {
 });
 
 // === Scroll reveal ===
-const revealEls = document.querySelectorAll('.info-card, .contact-pill, .about-content, .contact-desc');
+const revealEls = document.querySelectorAll('.info-card, .about-content');
 revealEls.forEach(el => el.classList.add('reveal'));
 
 const observer = new IntersectionObserver((entries) => {
