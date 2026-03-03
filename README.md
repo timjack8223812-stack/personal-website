@@ -5,6 +5,8 @@ A modern, premium personal webpage for **Tim Li**, built with pure HTML, CSS, an
 
 **Live Demo:** [https://timjack8223812-stack.github.io/personal-website/](https://timjack8223812-stack.github.io/personal-website/)
 
+![Homepage Screenshot](homepage.png)
+
 ## Completed Tasks
 
 ### 1. Web Development
